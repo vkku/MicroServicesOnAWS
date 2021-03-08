@@ -71,3 +71,4 @@ Once images are uploaded, we can do object detection on them to find things insi
 * [Summary](./PART05/TheEnd.md)
 
 https://docs.amplify.aws/start/q/integration/react
+https://on24static.akamaized.net/event/29/57/03/4/rt/1/documents/resourceList1614637494848/awsmicroservices.pdf
