@@ -69,3 +69,5 @@ Once images are uploaded, we can do object detection on them to find things insi
 
 * [Amazon Rekognition](./PART05/Rek.md)
 * [Summary](./PART05/TheEnd.md)
+
+https://docs.amplify.aws/start/q/integration/react
